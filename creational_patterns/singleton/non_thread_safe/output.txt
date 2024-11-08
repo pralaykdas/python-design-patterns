@@ -1,0 +1,7 @@
+Connecting to database at localhost:5432
+DatabaseConnection(localhost, 5432)
+DatabaseConnection(localhost, 5432)
+ID of db1: 1678092844384
+ID of db2: 1678092844384
+Is db1 == db2? True
+Singleton works, both variables contain the same instance.

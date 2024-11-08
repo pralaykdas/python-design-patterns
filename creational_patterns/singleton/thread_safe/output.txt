@@ -1,0 +1,7 @@
+If the values are same, then singleton was reused.
+If the values are different, then 2 singletons were created.
+
+RESULT:
+
+DatabaseConnection(localhost, 5432)
+DatabaseConnection(localhost, 5432)

@@ -1,0 +1,2 @@
+Processing order for physical product to be shipped to 123 Main St, Whitefield weighing 1000kg.
+Processing order for digital product to be delivered to customer@example.com.
